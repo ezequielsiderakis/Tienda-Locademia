@@ -1,0 +1,31 @@
+.cardContent{
+  padding: 20px;
+}
+.botonPedir{
+  border: none;
+}
+.botonPedir:hover{
+  font-weight: 800;
+}
+.description{
+  font-size: 16px;
+  margin-bottom: 8px;
+}
+
+.producto{
+  height: auto !important;
+  width: '18rem' !important;
+  color : black;
+  overflow: hidden;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-evenly;
+  cursor: pointer;
+  transition: transform 200ms ease-in;
+  box-shadow: 0 2px 20px rgb(83, 83, 83) !important;
+}
+
+.normalizeItem{
+  color: black;
+  text-decoration: none;
+}

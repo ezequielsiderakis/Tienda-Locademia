@@ -1,0 +1,22 @@
+.container-checkout{
+    margin: 20px 0px;
+}
+
+.go-to-cart{
+    width: 150px;
+}
+
+.keep-buying{
+    color:black;
+    font-size: medium;
+    margin-top: 25px;
+}
+
+.keep-buying:hover{
+    color: blue;
+}
+
+.buttons{
+    display: grid;
+    padding: 25px 0px;
+}

@@ -1,0 +1,62 @@
+[
+    {
+        "id" : "000",
+        "title" : "Remera Racing",
+        "price" : "1750",
+        "category" : "remera",
+        "description" : "Remera Lycra ",
+        "image" : "/carrito/REMERA.jpg",
+        "initial" : 1,
+        "stock" : 295
+    },
+    {
+        "id" : "001",
+        "title" : "Pantalon",
+        "price" : "1850",
+        "category" : "pantalon",
+        "description" : "",
+        "image" : "/carrito/BERMUDA.jpg",
+        "initial" : 1,
+        "stock" : 25
+    },
+    {
+        "id" : "002",
+        "title" : "Canilleras",
+        "price" : "900",
+        "category" : "canillera",
+        "description" : "",
+        "image" : "/carrito/CANILLERAS.jpg",
+        "initial" : 1,
+        "stock" : 25
+    },
+    {
+        "id" : "003",
+        "title" : "Botines",
+        "price" : "10000",
+        "category" : "Botines",
+        "description" : "",
+        "image" : "carrito/BOTINES.jpg",
+        "initial" : 1,
+        "stock" : 25
+    },
+    {
+        "id" : "004",
+        "title" : "Pelota",
+        "price" : "1600",
+        "category" : "Pelota",
+        "description" : "",
+        "image" : "/carrito/PELOTA.jpg",
+        "initial" : 1,
+        "stock" : 25
+    },
+    {
+        "id" : "005",
+        "title" : "Llavero",
+        "price" : "600",
+        "category" : "llavero",
+        "description" : "",
+        "image" : "/carrito/LLAVERO.jpg",
+        "initial" : 1,
+        "stock" : 25
+    }
+]

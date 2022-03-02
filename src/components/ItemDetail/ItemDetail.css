@@ -1,0 +1,18 @@
+.row{
+    background-color: white;
+    border-radius: 8px;
+    margin: 3%;
+}
+.col-imagen{
+    margin: 25px 10px;
+}
+.col-details{
+    margin: 25px 0px;
+    padding-left: 30px;
+    padding-bottom: 40px;
+}
+
+.col-details > * {
+    padding: 5px;
+}
+
